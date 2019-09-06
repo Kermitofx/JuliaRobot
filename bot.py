@@ -5,7 +5,7 @@ import telebot
 from telebot import types
 from random import randint, choice
 
-bot = telebot.TeleBot("893774031:AAGl0ZYo7v868yF1sMKqusFccQE63voXclc")
+bot = telebot.TeleBot("810530984:AAElM4t71JtkGvVy2BNKfBPJNnq2KVQoGdg")
 
 
 @bot.message_handler(commands=["frase"])
